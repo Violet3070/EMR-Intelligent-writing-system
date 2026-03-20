@@ -11,7 +11,7 @@
       :router="true"  
     >
       <div class="logo-container">
-        <h2 class="logo-text">电子病历智能书写系统</h2>
+        <h3 class="logo-text">EMR智能书写系统</h3>
         <!-- <h8 class="logo-text">Electronic Medical Record Intelligent Writing System</h8> -->
       </div>
       
